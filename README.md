@@ -1,3 +1,5 @@
+Kawan Oliveira amorim RM 562197
+Alana Vieira Batista RM 563796
 https://wokwi.com/projects/432795335404972033
 https://youtu.be/ItRtJiLGayU
 🚨 Sistema de Alerta com Arduino (LED + Buzzer + Potenciômetro)
