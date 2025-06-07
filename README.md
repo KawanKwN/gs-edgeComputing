@@ -1,5 +1,5 @@
 https://wokwi.com/projects/432795335404972033
-https://youtu.be/Qm66XS2w8iM?si=pvK0mE5J4mvnLcpq
+https://youtu.be/ItRtJiLGayU
 🚨 Sistema de Alerta com Arduino (LED + Buzzer + Potenciômetro)
 📝 Descrição do Problema
 
